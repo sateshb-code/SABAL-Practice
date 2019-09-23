@@ -1,2 +1,3 @@
 # SABAL-Practice
-Repository to familiarize myself with GitHub
+Repository to familiarize myself with GitHub.
+Small change.
